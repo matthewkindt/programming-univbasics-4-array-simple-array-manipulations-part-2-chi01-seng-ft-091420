@@ -18,4 +18,5 @@ def using_delete(no_offense_steven, instructors)
 puts no_offense_steven.delete "Steven"
 end
 
-def using_delete_at(famous_robots)
+def using_delete_at(famous_robots, delete_robot)
+  
