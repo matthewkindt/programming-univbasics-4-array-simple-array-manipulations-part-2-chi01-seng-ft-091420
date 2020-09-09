@@ -5,3 +5,7 @@ end
 def using_insert(list_of_programing_languages, another_language = "Python")
 list_of_programing_languages.insert(4, "Python")
 end
+
+def using_uniq(haircuts)
+
+end
