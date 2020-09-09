@@ -19,4 +19,4 @@ puts no_offense_steven.delete "Steven"
 end
 
 def using_delete_at(famous_robots, delete_robot)
-  famous_robots.delete_at
+  famous_robots.delete_at(2)
